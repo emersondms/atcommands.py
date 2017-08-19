@@ -1,5 +1,5 @@
 # atcommands.py
-Apply AT commands on Android smartphones using Python (tested only on LG devices using Windows).
+Apply AT commands on Android smartphones with Python (tested only on LG devices using Windows).
 
 ## How to use   
 First, import **atcommands.py** library
