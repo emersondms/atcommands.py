@@ -1,13 +1,13 @@
 # atcommands.py
-desc  (tested only on LG devices using Windows).
+Apply AT commands on Android smartphones using Python (tested only on LG devices using Windows).
 
 ## How to use   
-- First, import **atcommands.py** library
+First, import **atcommands.py** library
 ```python
 import atcommands
 ```
 
-- Then, use it to apply at commands.
+Then, use it to apply at commands.
 
 ### Examples
 Get device's IMEI:
